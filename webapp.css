@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 /* texts */
 body {
-    background-image: url("images/barn.jpg");
+    background-image: url("images/farm2.jpg");
 	background-size: cover;
 	font-family:'Gloria Hallelujah', cursive;
 }
@@ -67,6 +67,7 @@ body {
 	}
 	#rightColumn {
 		width: 65%;
+		border: dashed, #7C5912;
 	}
 	#leftColumn {
 		width: 30%;

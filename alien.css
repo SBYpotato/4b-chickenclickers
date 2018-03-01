@@ -31,7 +31,7 @@ body {
 }
 
 #leftColumn	 {
-	background-color: #59160D;
+	background-image:url(images/rainbowegg.png);
 	height: 650px;
 	float: left;
 	border-radius: 15px;
